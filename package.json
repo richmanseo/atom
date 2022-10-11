@@ -1,13 +1,16 @@
 {
-  "name": "atom",
+  "name": "pgslot",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "สล็อตเว็บตรง ",
   "keywords": [
-    "syntax",
-    "theme"
+    "pgslot",
+    "pg slot",
+    "สล็อตpg",
+    "สล็อต",
+    "สล็อต pg"
   ],
-  "repository": "https://github.com/atom/atom",
+  "repository": "https://github.com/richmanseo/atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
